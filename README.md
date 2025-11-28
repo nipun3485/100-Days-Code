@@ -167,6 +167,67 @@ Below are the completed files listed in correct order: two questions per day.
 * [day50_1.c](100-days/day50_1.c)
 * [day50_2.c](100-days/day50_2.c)
 
+### **Questions 101–110**
+- [day51_1.c](100-days/day51_1.c)
+- [day52_1.c](100-days/day52_1.c)
+- [day53_1.c](100-days/day53_1.c)
+- [day54_1.c](100-days/day54_1.c)
+- [day55_1.c](100-days/day55_1.c)
+- [day56_1.c](100-days/day56_1.c)
+- [day57_1.c](100-days/day57_1.c)
+- [day58_1.c](100-days/day58_1.c)
+- [day59_1.c](100-days/day59_1.c)
+- [day60_1.c](100-days/day60_1.c)
+
+### **Questions 111–120**
+- [day61_1.c](100-days/day61_1.c)
+- [day62_1.c](100-days/day62_1.c)
+- [day63_1.c](100-days/day63_1.c)
+- [day64_1.c](100-days/day64_1.c)
+- [day65_1.c](100-days/day65_1.c)
+- [day66_1.c](100-days/day66_1.c)
+- [day67_1.c](100-days/day67_1.c)
+- [day68_1.c](100-days/day68_1.c)
+- [day69_1.c](100-days/day69_1.c)
+- [day70_1.c](100-days/day70_1.c)
+
+### **Questions 121–130**
+- [day71_1.c](100-days/day71_1.c)
+- [day72_1.c](100-days/day72_1.c)
+- [day73_1.c](100-days/day73_1.c)
+- [day74_1.c](100-days/day74_1.c)
+- [day75_1.c](100-days/day75_1.c)
+- [day76_1.c](100-days/day76_1.c)
+- [day77_1.c](100-days/day77_1.c)
+- [day78_1.c](100-days/day78_1.c)
+- [day79_1.c](100-days/day79_1.c)
+- [day80_1.c](100-days/day80_1.c)
+
+### **Questions 131–140**
+- [day81_1.c](100-days/day81_1.c)
+- [day82_1.c](100-days/day82_1.c)
+- [day83_1.c](100-days/day83_1.c)
+- [day84_1.c](100-days/day84_1.c)
+- [day85_1.c](100-days/day85_1.c)
+- [day86_1.c](100-days/day86_1.c)
+- [day87_1.c](100-days/day87_1.c)
+- [day88_1.c](100-days/day88_1.c)
+- [day89_1.c](100-days/day89_1.c)
+- [day90_1.c](100-days/day90_1.c)
+
+### **Questions 141–150**
+- [day91_1.c](100-days/day91_1.c)
+- [day92_1.c](100-days/day92_1.c)
+- [day93_1.c](100-days/day93_1.c)
+- [day94_1.c](100-days/day94_1.c)
+- [day95_1.c](100-days/day95_1.c)
+- [day96_1.c](100-days/day96_1.c)
+- [day97_1.c](100-days/day97_1.c)
+- [day98_1.c](100-days/day98_1.c)
+- [day99_1.c](100-days/day99_1.c)
+- [day_100_1.c](100-days/day_100_1.c)
+
+
 ## Acknowledgement
 
 This challenge is based on standard problem-solving approaches and self-learning methods commonly used in programming practice. It is inspired by curated problem sets and educational resources that encourage consistent coding.
